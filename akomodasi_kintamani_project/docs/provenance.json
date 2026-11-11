@@ -1,0 +1,8 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query_file": "docs/query_overpass.txt",
+  "waktu_akuisisi_utc": "2026-11-05",
+  "jumlah_elemen": 32,
+  "lisensi": "Open Database License (ODbL) - OpenStreetMap contributors",
+  "pengambil_data": "Mahasiswa Informatika INSTIKI"
+}

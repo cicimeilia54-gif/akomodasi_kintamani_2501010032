@@ -1,0 +1,5 @@
+aspek_etika,status,keterangan
+Batas_wajaran_request,Ya,Menggunakan jeda dan tidak melakukan loop berulang ke server Overpass.
+Minimisasi_data_pribadi,Ya,Nomor telepon, email, dan data kontak pribadi pemilik tidak diambil atau disimpan.
+Sumber_yang_diizinkan,Ya,Mengambil data murni dari OpenStreetMap dan BPS, menghindari OTA komersial.
+Atribusi_lisensi,Ya,Mencantumkan atribusi OpenStreetMap contributors pada laporan dan README.
